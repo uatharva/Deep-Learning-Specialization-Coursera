@@ -50,8 +50,6 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ## Quiz Solutions
 
-There are concerns that some people may use the content here to quickly ace the course so I'll no longer update any quiz solution.
-
 - Course 1: Neural Networks and Deep Learning
 
   - [Week 1 Quiz - Introduction to deep learning](https://github.com/uatharva/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)
